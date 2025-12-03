@@ -25,7 +25,7 @@ export const Guarantee = () => {
               Si no te gusta el curso, por cualquier motivo, solo tienes que enviarnos un correo electrónico dentro de 7 días y te devolveremos el 100% de tu dinero. Sin preguntas, sin burocracia. El riesgo es todo nuestro.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center">
-                <Button asChild className="h-14 px-8 text-lg font-bold text-white bg-green-500 hover:bg-green-600 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 animate-subtle-pulse">
+                <Button asChild className="h-14 px-8 text-lg font-bold text-white bg-green-500 hover:bg-green-600 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
                     <a href="https://pay.hotmart.com/F103245627C?checkoutMode=10" target="_blank" rel="noopener noreferrer">
                         QUIERO ACCEDER AHORA
                     </a>
