@@ -1,6 +1,7 @@
 import { Benefits } from '@/components/landing/benefits';
 import { Bonuses } from '@/components/landing/bonuses';
 import { Faq } from '@/components/landing/faq';
+import { FloatingBuyButton } from '@/components/landing/floating-buy-button';
 import { Footer } from '@/components/landing/footer';
 import { Guarantee } from '@/components/landing/guarantee';
 import { Hero } from '@/components/landing/hero';
@@ -26,6 +27,7 @@ export default function Home() {
         <StudentResults />
       </main>
       <Footer />
+      <FloatingBuyButton />
     </div>
   );
 }

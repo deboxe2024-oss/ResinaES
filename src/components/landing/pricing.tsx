@@ -88,7 +88,7 @@ export const Pricing = () => {
 
                 <div className="mt-6">
                   <Button asChild className="h-14 w-full px-8 text-lg font-bold text-white bg-green-500 hover:bg-green-600 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300 animate-subtle-pulse">
-                      <a href="https://pay.hotmart.com/F103245627C?checkoutMode=10&bid=1764744993827" className="hotmart-fb">
+                      <a href="https://pay.hotmart.com/F103245627C?checkoutMode=10" target="_blank" rel="noopener noreferrer">
                         QUIERO GARANTIZAR MI VAGA
                       </a>
                   </Button>
