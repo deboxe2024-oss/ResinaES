@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A background image showing a resin art workshop.",
+      "imageUrl": "https://images.unsplash.com/photo-1641893979088-87d4d9604c36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZXNpbiUyMGFydCUyMHdvcmtzaG9wfGVufDB8fHx8MTc2NDM0NDcyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "resin art workshop"
+    },
+    {
+      "id": "video-placeholder",
+      "description": "A placeholder image for the course video, showing a finished piece of resin artwork.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fplaceholder-video.9b244799.jpg&w=1920&q=75",
+      "imageHint": "resin artwork"
+    },
+    {
+      "id": "learn-1",
+      "description": "Image for 'Introduction to Resin' showing various resin supplies.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=https%3A%2F%2Fkdloteojnkcjblhoirea.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-files%2F0.6787677202376466.jpg&w=2048&q=75",
+      "imageHint": "resin necklaces"
+    },
+    {
+      "id": "learn-2",
+      "description": "Image for 'Pigmentation Techniques' showing a colorful resin lamp.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=https%3A%2F%2Fkdloteojnkcjblhoirea.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-files%2F0.14428733524604598.jpg&w=2048&q=75",
+      "imageHint": "resin lamp"
+    },
+    {
+      "id": "learn-3",
+      "description": "Image for 'Mold Creation' showing resin keychains.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=https%3A%2F%2Fkdloteojnkcjblhoirea.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-files%2F0.4228239060173956.jpg&w=2048&q=75",
+      "imageHint": "resin keychains"
+    },
+    {
+      "id": "learn-4",
+      "description": "Image for 'Decorative Pieces' showing a resin lamp with flowers.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=https%3A%2F%2Fkdloteojnkcjblhoirea.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-files%2F0.9469273642130308.jpg&w=2048&q=75",
+      "imageHint": "resin flowers"
+    },
+    {
+      "id": "learn-5",
+      "description": "Image for 'Resin Jewelry' showing blue geode art.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=https%3A%2F%2Fkdloteojnkcjblhoirea.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-files%2F0.5062421864143695.jpg&w=2048&q=75",
+      "imageHint": "resin geode"
+    },
+    {
+      "id": "learn-6",
+      "description": "Image for 'Finishing and Polishing' showing a resin pendant with a wolf.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=https%3A%2F%2Fkdloteojnkcjblhoirea.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpublic-files%2F0.02168658949314306.jpg&w=2048&q=75",
+      "imageHint": "resin pendant"
+    },
+    {
+      "id": "guarantee-seal",
+      "description": "A seal for the 7-day money-back guarantee.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fselo-garantia.4f220d91.png&w=256&q=75",
+      "imageHint": "guarantee seal"
+    },
+    {
+      "id": "instructor-photo",
+      "description": "Photo of the instructor, Vanessa Carvalho.",
+      "imageUrl": "https://resinaemcasa.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprofessora.67a57a12.png&w=640&q=75",
+      "imageHint": "instructor portrait"
+    }
+  ]
+}
